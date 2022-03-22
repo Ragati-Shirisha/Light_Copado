@@ -6,12 +6,20 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>CasePremierPriority</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
         <members>Case.Is_Premier_Account__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Case-Formato de casos</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
     </types>
     <version>54.0</version>
 </Package>
