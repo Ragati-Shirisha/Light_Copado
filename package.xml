@@ -11,10 +11,12 @@
     </types>
     <types>
         <members>Case.Is_Premier_Account__c</members>
+        <members>Case.issues__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Case-Formato de casos</members>
+        <members>CaseClose-Formato de Cerrar caso</members>
         <name>Layout</name>
     </types>
     <types>

@@ -14,8 +14,16 @@
         <field>Case.Is_Premier_Account__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Case.issues__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Case-Formato de casos</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>CaseClose-Formato de Cerrar caso</layout>
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
