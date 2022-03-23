@@ -6,11 +6,6 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>CasePremierPriority</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>Case.Is_Premier_Account__c</members>
         <members>Case.issues__c</members>
         <name>CustomField</name>
     </types>
