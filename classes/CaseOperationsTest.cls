@@ -9,7 +9,7 @@ public class CaseOperationsTest {
         
         // Perform test
         Test.startTest();
-        Case c = new Case (Status = 'New', Origin = 'Email', AccountId = acc.Id, ContactId = con.Id, Is_Premier_Account__c = True);
+        Case c = new Case (Status = 'New', Origin = 'Email', AccountId = acc.Id, ContactId = con.Id, issues__c   = True);
         Database.SaveResult result = Database.insert(c);
         Test.stopTest();
         // Verify
