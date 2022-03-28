@@ -16,6 +16,9 @@
     </types>
     <types>
         <members>Admin</members>
+        <members>ContractManager</members>
+        <members>MarketingProfile</members>
+        <members>Minimum Access - Salesforce</members>
         <name>Profile</name>
     </types>
     <version>54.0</version>
