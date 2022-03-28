@@ -6,11 +6,6 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>CasePremierPriority</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>Case.Is_Premier_Account__c</members>
         <members>Case.issues__c</members>
         <name>CustomField</name>
     </types>
@@ -21,6 +16,9 @@
     </types>
     <types>
         <members>Admin</members>
+        <members>ContractManager</members>
+        <members>MarketingProfile</members>
+        <members>Minimum Access - Salesforce</members>
         <name>Profile</name>
     </types>
     <version>54.0</version>
