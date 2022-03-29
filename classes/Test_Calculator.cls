@@ -8,7 +8,7 @@ public class Test_Calculator {
     Calculator c=new Calculator();
     c.a=10;
     c.b=10;
-       system.assertEquals(20,20);
+      system.assertEquals(20, c.a+c.b, 'add');
     test.startTest();
       c.sum();
         c.div();
