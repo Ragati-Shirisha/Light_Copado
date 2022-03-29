@@ -13,7 +13,15 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>Opportnitystagenmae</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>Test_Calculator</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>opptestclass</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <custom>false</custom>
