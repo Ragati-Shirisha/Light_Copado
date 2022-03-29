@@ -7,7 +7,7 @@ public class Calculator {
          public void sum() 
         { 
                     result=(a+b);
-           system.debug('the result is:'+result);
+          
         }
         public  void diff()
         { 
@@ -16,11 +16,12 @@ public class Calculator {
          public void mul()
         { 
             result=(a*b); 
-             system.debug('the result is:'+result);
+        
         }
         public void div()
         { 
-            result=(a/b);        
+            result=(a/b);
+           
         }
 
        

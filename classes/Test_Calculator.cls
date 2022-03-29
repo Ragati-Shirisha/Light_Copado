@@ -1,4 +1,4 @@
-@isTest(seeAllData=True)
+@IsTest
 public class Test_Calculator {
    
 
@@ -8,6 +8,7 @@ public class Test_Calculator {
     Calculator c=new Calculator();
     c.a=10;
     c.b=10;
+        system.assert(true);
     test.startTest();
       c.sum();
         c.div();
