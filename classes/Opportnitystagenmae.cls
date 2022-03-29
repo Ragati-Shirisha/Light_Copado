@@ -1,9 +1,10 @@
 /**
-*@democlass
+*@description democlass
 */
 public class Opportnitystagenmae {
-   /**
+    /**
 *@description setpriority
+*@param caseip
 @return caseoutput
 */
     public static Opportunity setstats()
