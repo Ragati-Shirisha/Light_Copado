@@ -1,7 +1,7 @@
 @IsTest
 public class Opptestclass {
     @isTest
-    public static void Teststge()
+    public static void teststge()
     {
         Account acc=new Account();
         acc.Name='TEst acc';
