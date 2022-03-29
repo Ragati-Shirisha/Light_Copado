@@ -1,5 +1,6 @@
 public class Calculator {
     
+  
     public integer a {set;get;}
     public integer b {set;get;}
     public integer result {set;get;}
