@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Case-Formato de casos</members>
-        <members>CaseClose-Formato de Cerrar caso</members>
-        <name>Layout</name>
+        <members>Case.Is_Premier_Account__c</members>
+        <name>CustomField</name>
     </types>
     <version>54.0</version>
 </Package>
