@@ -15,7 +15,7 @@ public class opptestclass {
         c.AccountId=acc.Id;
         Opportnitystagenmae.setstats( );
         test.stopTest();
-        system.assertEquals('Prospecting', c.StageName);
+        system.assertEquals('Prospecting', c.StageName,'stagename is propesticng');
       
       
          }
