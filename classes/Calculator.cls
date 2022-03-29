@@ -1,10 +1,17 @@
+/**
+ * @description Calculator
+ */
 public class Calculator {
     
-  
     public integer a {set;get;}
     public integer b {set;get;}
     public integer result {set;get;}
-   
+   /**
+ * @param sum
+ * @param diff
+ * @param mul
+ * @param div
+ */
          public void sum() 
         { 
                     result=(a+b);
